@@ -1,0 +1,54 @@
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\GeradorRelatorioPDF.exe
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\GeradorRelatorioPDF.deps.json
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\GeradorRelatorioPDF.runtimeconfig.json
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\GeradorRelatorioPDF.runtimeconfig.dev.json
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\GeradorRelatorioPDF.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\ref\GeradorRelatorioPDF.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\GeradorRelatorioPDF.pdb
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\obj\Debug\net5.0\GeradorRelatorioPDF.csproj.AssemblyReference.cache
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\obj\Debug\net5.0\GeradorRelatorioPDF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\obj\Debug\net5.0\GeradorRelatorioPDF.AssemblyInfoInputs.cache
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\obj\Debug\net5.0\GeradorRelatorioPDF.AssemblyInfo.cs
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\obj\Debug\net5.0\GeradorRelatorioPDF.csproj.CoreCompileInputs.cache
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\obj\Debug\net5.0\GeradorRelatorioPDF.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\obj\Debug\net5.0\ref\GeradorRelatorioPDF.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\obj\Debug\net5.0\GeradorRelatorioPDF.pdb
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\obj\Debug\net5.0\GeradorRelatorioPDF.genruntimeconfig.cache
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\iTextSharp.LGPLv2.Core.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\Exercícios C#\GeradorRelatorioPDF\GeradorRelatorioPDF\obj\Debug\net5.0\GeradorRelatorioPDF.csproj.CopyComplete
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\GeradorRelatorioPDF.exe
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\GeradorRelatorioPDF.deps.json
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\GeradorRelatorioPDF.runtimeconfig.json
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\GeradorRelatorioPDF.runtimeconfig.dev.json
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\GeradorRelatorioPDF.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\ref\GeradorRelatorioPDF.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\GeradorRelatorioPDF.pdb
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\iTextSharp.LGPLv2.Core.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\obj\Debug\net5.0\GeradorRelatorioPDF.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\obj\Debug\net5.0\GeradorRelatorioPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\obj\Debug\net5.0\GeradorRelatorioPDF.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\obj\Debug\net5.0\GeradorRelatorioPDF.AssemblyInfo.cs
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\obj\Debug\net5.0\GeradorRelatorioPDF.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\obj\Debug\net5.0\GeradorRelatorioPDF.csproj.CopyComplete
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\obj\Debug\net5.0\GeradorRelatorioPDF.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\obj\Debug\net5.0\ref\GeradorRelatorioPDF.dll
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\obj\Debug\net5.0\GeradorRelatorioPDF.pdb
+C:\Users\felip\Desktop\Git-Honoratex\PDFGeneretorCSharp\obj\Debug\net5.0\GeradorRelatorioPDF.genruntimeconfig.cache
